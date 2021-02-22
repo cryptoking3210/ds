@@ -24,7 +24,7 @@ For more details, see the [contribution guidelines (EN)](CONTRIBUTING.md) ([æ—¥æ
 
 ## Domain Verification Checker
 
-If you make changes to the [Domain Verification Checker](https://xrpl.org/validator-domain-verifier.html) tool and edit the domain-verifier-checker.js file, you will need to do the following:
+If you make changes to the [Domain Verification Checker](https://xrpl.org/validator-domain-verifier.html) tool and edit the domain-verifier-checker.js file, you will need to do the following:d
 
 1. Install [webpack](https://webpack.js.org/) and required libraries via npm:
 
